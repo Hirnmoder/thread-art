@@ -5,9 +5,17 @@ This work is heavily inspired by the SoME3-winner "The Mathematics of String Art
 
 ## Examples
 
-Input Image: <div style="width: 200px">![](./demo/pexels-engin-akyurt.jpg) </div>
-Output Image: <div style="width: 200px">![](./demo/pexels-engin-akyurt-result.png) </div>
-Video: <div style="width: 200px">![](./demo/pexels-engin-akyurt-result.mp4) </div>
+Input Image:
+
+<img src="./demo/pexels-engin-akyurt.jpg" width="200px" />
+
+Output Image:
+
+<img src="./demo/pexels-engin-akyurt-result.png" width="200px" />
+
+Video:
+
+<video><source src="./demo/pexels-engin-akyurt-result.mp4" /><p>[Click](./demo/pexels-engin-akyurt-result.mp4)</p></video>
 Command:
 ```bash
 cd ./src
